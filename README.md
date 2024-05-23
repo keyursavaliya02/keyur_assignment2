@@ -1,8 +1,8 @@
-Greeting Program
+# Greeting Program
 
-Purpose
+## Purpose
 This program prints a personalized greeting.
 
-Instructions
+## Instructions
 To run the program, use the following command:
 go run main.go
